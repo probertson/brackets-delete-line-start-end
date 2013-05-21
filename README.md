@@ -1,5 +1,5 @@
-brackets-delete-line-start-end
-==============================
+Brackets Delete to Line Start/End extension
+===========================================
 
 This extension adds two shortcuts to Adobe Brackets, for deleting from the current cursor location to the start or end of the current line. These are common Mac shortcuts (Cmd+Delete and Cmd+Backspace) in code and text editing applications such as Sublime Text 2, TextEdit, Eclipse, Chrome (url bar and dev tools), and even MS Outlook.
 

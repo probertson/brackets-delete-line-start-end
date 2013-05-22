@@ -1,9 +1,9 @@
 {
-    "name": "delete-line-start-end",
+    "name": "brackets-delete-line-start-end",
     "title": "Delete to Line Start/End",
     "version": "1.0.0",
     "description": "Shortcuts to delete from the current cursor position to the start or end of the line (Cmd+Backspace and Cmd+Delete on Mac)",
-    "homepage": "https://github.com/probertson/select-parent",
+    "homepage": "https://github.com/probertson/brackets-delete-line-start-end",
     "license": "MIT",
     "author": "Paul Robertson <paul@probertson.com> (http://probertson.com/)",
     "categories": "editing",

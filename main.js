@@ -9,8 +9,8 @@ define(function (require, exports, module) {
     EditorManager   = brackets.getModule("editor/EditorManager"),
     DocumentManager = brackets.getModule("document/DocumentManager"),
     Menus           = brackets.getModule("command/Menus"),
-    DELETE_TO_START_COMMAND_ID      = "probertson.deleteToLineStart",
-    DELETE_TO_END_COMMAND_ID      = "probertson.deleteToLineEnd";
+    DELETE_TO_START_COMMAND_ID      = "probertson.delete_to_line_start_end.deleteToLineStart",
+    DELETE_TO_END_COMMAND_ID      = "probertson.delete_to_line_start_end.deleteToLineEnd";
 
     CommandManager.register("Delete To Line Start",
                             DELETE_TO_START_COMMAND_ID,
